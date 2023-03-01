@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Resume - Christine Bergen</title>
+    <style>
+      h1 {
+        font-weight: 700;
+        font-size: 2.5rem;
+      }
+      body {
+        background-color: rgb(240, 226, 237);
+        color: rgb(67, 67, 67);
+        margin-left: 15%;
+        margin-right: 15%;
+        margin-bottom: 5%;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      }
+      hr {
+        border: 1px solid rgb(67, 67, 67);
+        width: 95%;
+      }
+      .interests {
+        padding-bottom: 2rem;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Christine Bergen</h1>
+    <h2>Nanaimo, BC | 250-619-8983 | cbergen22@outlook.com</h2>
+    <hr />
+
+    <h1>Objective</h1>
+    <p>
+      To obtain a summer term work co-op position within Think Communications
+      where I can use my recent education in multiple aspects of technology to
+      be an asset to the organization.
+    </p>
+    <h1>Education</h1>
+    <h2>
+      VANCOUVER ISLAND UNIVERSITY, NANAIMO BC | SEPTEMBER 2022 - APRIL 2024
+    </h2>
+    <h3>
+      Information Technology and Applied Systems: Web and Mobile Development
+      Diploma Program
+    </h3>
+    <ul>
+      <li>
+        Good knowledge of HTML, CSS, tailwind, and Bootstrap. An example of my
+        work:
+        <a href="https://dev.itas.ca/~christine.bergen/ITAS191/FinalProject/"
+          >Web Development Semester 1: Final Project</a
+        >
+      </li>
+      <li>
+        Learned basic Java programming last semester, and currently learning
+        JavaScript and PHP.
+      </li>
+      <li>Learning how to create basic apps using Java in Android Studio.</li>
+      <li>
+        Currently in a Project Management course which utilizes Microsoft
+        Project. Also proficient in MS Visio, Word, Excel, Outlook, and
+        PowerPoint.
+      </li>
+      <li>Learning Agile methodologies, specifically: Scrum and Kanban.</li>
+      <li>
+        Currently using GitHub and GitLab for version control. Acquainted with
+        Jira. My GitHub:
+        <a href="https://github.com/christinebergen"
+          >GitHub - Christine Bergen</a
+        >
+      </li>
+      <li>
+        Used virtualization software to gain experience on Linux, macOS, and
+        Windows virtual machines. Used the virtual machines to practice various
+        tasks such as shell scripting, full system backup and restore, and
+        learning basic operating system functionality.
+      </li>
+      <li>
+        Gained experience using the command line on Linux, macOS, and Windows
+        virtual machines.
+      </li>
+      <li>
+        Completed a Co-Op preparation course to be eligible for a work Co-Op
+        placement during the 2023 summer semester (4 month term).
+      </li>
+    </ul>
+    <h2>
+      VANCOUVER ISLAND UNIVERSITY, NANAIMO BC | SEPTEMBER 2009 - JUNE 2010
+    </h2>
+    <h3>Hospital Unit Coordinator Certificate Program</h3>
+    <ul>
+      <li>
+        Completed training and obtained a certificate to be able to work as a
+        Hospital Unit Coordinator (also known as Nursing Unit Assistant).
+      </li>
+      <li>
+        Learned medical clerical skills specific to working in nursing stations
+        within the hospital.
+      </li>
+      <li>
+        Completed a 100 hour practicum at Nanaimo Regional General Hospital.
+      </li>
+    </ul>
+
+    <h1>Relevant Work Experience</h1>
+    <h2>
+      NURSING UNIT ASSISTANT | ISLAND HEALTH, NANAIMO BC | AUGUST 2011 - PRESENT
+    </h2>
+    <ul>
+      <li>
+        Holds a part time position in NRGH ICU as clerical support for a team of
+        doctors, nurses, and various other healthcare disciplines.
+      </li>
+      <li>
+        Acting as the communication hub for the unit, coordinates with other
+        departments in the hospital to ensure that patients get what they need
+        in a timely manner. Capable of handling multiple different patient needs
+        at the same time.
+      </li>
+      <li>
+        Gained a broad range of experience over the last 11 years in many
+        different departments including: Intensive Care/High Acuity, Cardiology,
+        Medical, Surgical, Operating Room, Post Anesthetic Care Unit, Psychiatry
+        & Psychiatric Emergency Services, and Patient Registration.
+      </li>
+      <li>
+        Thrives learning new things every day in the rapidly evolving field of
+        healthcare.
+      </li>
+
+      <li>
+        In 2016, was chosen to be a trainer for colleagues for the introduction
+        of the new Electronic Health Record.
+      </li>
+      <li>
+        In 2022, initiated a step-by-step guide to aid colleagues in how to
+        decipher a new protocol introduced to guide care for extremely sick
+        diabetic patients.
+      </li>
+      <li>
+        Took ownership of a SharePoint page for my colleagues so we would have
+        one central place to go to view current information that will help us do
+        our jobs.
+      </li>
+    </ul>
+    <div class="interests">
+      <h1>Interests</h1>
+      Born and raised on Vancouver Island, I enjoy spending time outdoors. I
+      love camping, traveling, playing board games, and spending time with
+      family and friends. I recently learned to play the Irish concertina, and
+      am very much enjoying the sense of accomplishment in learning a new
+      instrument.
+    </div>
+
+    <hr />
+    ©Christine Bergen 2023
+  </body>
+</html>
